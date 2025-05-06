@@ -1,4 +1,4 @@
-// 10)
+
 // A.	Write a program to find the greatest common divisor (GCD) of two numbers.
 // B.	Write a program to convert a decimal number to binary.
 
